@@ -1,2 +1,2 @@
-# corte-2
+# Corte-2
 Actividades de POO del segundo corte
