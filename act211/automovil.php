@@ -22,7 +22,7 @@ class Automovil {
  Número de Puertas: $this->numeroPuertas<br>
  ¿Es camioneta?: " . $this->esCamioneta(). "<br>";
  }
-
+    // Método para cambiar el color del automóvil
  function cambio_color($nuevo_color) {
  $this->color = $nuevo_color;
  return "El nuevo color del automóvil es: $this->color";

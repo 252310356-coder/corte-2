@@ -19,4 +19,6 @@ echo "<h2>Información del Automóvil 1 después de cambiar el color</h2>";
 echo $auto1->cambio_color("Verde"); // Cambiamos el color del auto1
 echo "<h2>Información del Automóvil 3 después de cambiar el color</h2>";
 echo $auto3->cambio_color("Amarillo"); // Cambiamos el color del auto3
+
+
 ?>
